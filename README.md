@@ -1,5 +1,5 @@
 <p text-align='center'>
-    <h2>// WORK IN PROGRESS //</h3>
+    <h2>//----------------------------WORK IN PROGRESS----------------------------//</h3>
 </p>
 
 <p align='center'>
