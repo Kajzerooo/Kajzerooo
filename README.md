@@ -3,7 +3,7 @@
 </p>
 
 <details open>
-    <summary><h2>BIBU BIBU</h2></summary>
+    <summary><h2>👋ABOUT ME</h2></summary>
 </details>
 
 <p align='center'>
