@@ -1,6 +1,6 @@
 <p align='center'>
 <a href='https://jumpshare.com/embed/llaxY1luKmfAwJTQJaG3'>
-<img src='https://jumpshare.com/embed/llaxY1luKmfAwJTQJaG3' alt='Artur Kajzer'>
+<img src='"C:\Users\artex\OneDrive - Zespół Szkół Ponadgimnazjalnych NR 20\Backup\Pulpit\Artur Kajzer.svg"' alt='Artur Kajzer'>
 </a>
 
 <p align='center'>
