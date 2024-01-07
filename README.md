@@ -1,7 +1,7 @@
 <p align='center'>
 <a href='https://jumpshare.com/embed/llaxY1luKmfAwJTQJaG3'>
 
-<img width='235' height='35' src='https://d3fopzgcfbf6a3.cloudfront.net/i55xbx%2Fpreview%2F55302809%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1704629464&Signature=gRF3TdfV3AjIXb3rRXAffqYR126XaMKP38ximpa6dICfYEfUBok9bV2lv4Y~IrooKaXBuAkJThZ~KxlI~BnjKXn8N8OaYA9wIawUn4I5iKpMHGN4fTGXuPWrZankG6uYrT4tFAf1sYEHD0~uqtx9Jv47~Oaq7VI2SMeRVrAD4jmc1zKHcdO0PQC~uCIz6YPd2h5SJWQk1RzI-ijNnMl0I9BAx7mUhIWKS87MP3uaRMXOkBAtWErV7BjBos5NQKDYEjATFQDFOTfRQefplLeERlrf-oWa0TCBstN-6A5L-go4DjUlO-l3U8iYls~FPDr~1PTtHwnH94BrwuEeJSkCgQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ' alt='Artur Kajzer'>
+<img width='435' height='50' src='https://d1tnmkmhr2jcsa.cloudfront.net/w2p1cx%2Fpreview%2F55302973%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1704629911&Signature=NWfKElBEcskFTwAs2dDgGv9Eqqe8SyYVpl3AxQmfwolx1xJWFRb02SARo1~SHZLaaZP0n5Rvsgm-oAiywXD~MQ1kofOXu3Rm4S4nLwtQSZy-MhCEE5rob36TZgfZgormTgcjbKTJ3bwudkcopptltBYAXuB1FZUUsqlaFweJK1rxg2tPGs4RKPi9QUSvMtw47RkQ8xxPG8afRpr7ahFWy6zkYgbTDb-xq6nInLhk~GLvx9k3u3nJDVZPDNcaT-gR-1cnyYCs9e3qZ22UsHSwQ11VBe5-tCpyisnEcIE6McU7Mn4a6ZojJeXLLX22jG5DQTqDCvMMeUuU9WMD5Q56YQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ' alt='Artur Kajzer'>
 </a>
 
 <p align='center'>
