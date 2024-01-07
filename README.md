@@ -1,5 +1,5 @@
 <p align='center'>
-<a href='LIMK'>
+<a href='https://jmp.sh/s/llaxY1luKmfAwJTQJaG3'>
 <img src='https://jmp.sh/s/llaxY1luKmfAwJTQJaG3' alt='Artur Kajzer'>
 </a>
 
