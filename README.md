@@ -1,4 +1,4 @@
-<h3 text-algin='center'>// WORK IN PROGRESS //
+<h3 text-align='center'>// WORK IN PROGRESS //
 </h3>
 
 <p align='center'>
