@@ -8,7 +8,7 @@
 </a>
 
 <p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Allerta&size=21&duration=4000&pause=1000&color=339406&center=true&random=false&width=435&lines=IT+high-school+student.;Coding+enthusiast.;(someday)+full-stack+web+dev." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Allerta&size=21&duration=4000&pause=1000&color=339406&center=true&random=false&width=435&lines=IT+high-school+student.;Coding+enthusiast.;(someday)+full-stack+web+developer." alt="Typing SVG" /></a>
 </p>
 
 <details open>
