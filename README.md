@@ -33,7 +33,7 @@
 
   <!-- PORTFOLIO -->
   <a href='https://erengy.github.io/under-construction/'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/Business_(48).png' alt='Graphics portfolio' width='40' height='40'>
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/Business_(48).png' alt='Graphics portfolio' width='45' height='40'>
 </p>
 
 </a>
