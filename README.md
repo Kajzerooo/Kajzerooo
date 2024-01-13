@@ -24,7 +24,7 @@
 <p align='center'>
   
   <!-- SPOTIFY -->
-  <a href='https://open.spotify.com/user/3lve5iipdzcxild8ey2dxtdli?si=723d70ab90b84724' target="_blank">
+  <a display='none' href='https://open.spotify.com/user/3lve5iipdzcxild8ey2dxtdli?si=723d70ab90b84724' target="_blank">
   <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/spotify.png' alt='Spotify Profile' width='40' height='40' border="0">&nbsp&nbsp
   
   <!-- DISCORD -->
