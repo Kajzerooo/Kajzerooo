@@ -11,6 +11,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Allerta&size=21&duration=4000&pause=1000&color=339406&center=true&random=false&width=435&lines=IT+high-school+student.;Coding+enthusiast.;(someday)+full-stack+web+developer.;Digital+artist.;" alt="Typing SVG" /></a>
 </p>
 
+<a href='https://open.spotify.com/user/3lve5iipdzcxild8ey2dxtdli?si=723d70ab90b84724'><img src='spotify.png' alt='Spotify Profile'></a>
+
 <details open>
     <summary><h2>👋ABOUT ME</h2></summary>
 </details>
@@ -25,3 +27,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- <a href="https://www.vecteezy.com/free-vector/portfolio-icon">Portfolio Icon Vectors by Vecteezy</a> -->
