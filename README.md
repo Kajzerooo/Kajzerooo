@@ -25,15 +25,15 @@
   
   <!-- SPOTIFY -->
   <a href='https://open.spotify.com/user/3lve5iipdzcxild8ey2dxtdli?si=723d70ab90b84724'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/spotify.png' alt='Spotify Profile' width='40' height='40'>
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/spotify.png' alt='Spotify Profile' width='40' height='40'>&nbsp&nbsp
   
   <!-- DISCORD -->
   <a href='https://jpst.it/3xPvc'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38'>&nbsp&nbsp&nbsp&nbsp
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38'>&nbsp&nbsp
 
   <!-- PORTFOLIO -->
   <a href='https://erengy.github.io/under-construction/'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/Business_(48).png' alt='Graphics portfolio' width='45' height='40'>
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/Business_(48).png' alt='Graphics portfolio' width='45' height='40'>&nbsp&nbsp
 </p>
 
 </a>
