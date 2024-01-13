@@ -37,8 +37,8 @@
 - ⚡ Fun fact: ...
 
 <!-- <a href="https://www.vecteezy.com/free-vector/portfolio-icon">Portfolio Icon Vectors by Vecteezy</a> -->
-<style>
+<!-- <style>
   div#user-content-socialmedia {
     text-align: center;
 }
-</style>
+</style> -->
