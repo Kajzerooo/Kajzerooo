@@ -29,11 +29,11 @@
   
   <!-- DISCORD -->
   <a href='https://jpst.it/3xPvc'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38' margin='20px'>
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38'>
 
   <!-- PORTFOLIO -->
-  <a href=''>
-  <img src='' alt='' width='' height=''>
+  <a href='https://erengy.github.io/under-construction/'>
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/Business_(48).png' alt='Graphics portfolio' width='40' height='40'>
 </p>
 
 </a>
