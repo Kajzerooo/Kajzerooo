@@ -1,7 +1,7 @@
 <style>
-  #user-content-socialmedia{
+  div#user-content-socialmedia {
     text-align: center;
-  }
+}
 </style>
 
 <p text-align='center'>
