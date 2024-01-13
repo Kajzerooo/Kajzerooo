@@ -29,7 +29,7 @@
   
   <!-- DISCORD -->
   <a href='https://jpst.it/3xPvc'>
-  <img margin='5px' src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38'>
+  <img margin='20px' src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38'>
 
   <!-- PORTFOLIO -->
   <a href=''>
