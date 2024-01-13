@@ -18,22 +18,22 @@
 
 <!-- TYPING TEXT -->
 <p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Allerta&size=21&duration=4000&pause=1000&color=339406&center=true&random=false&width=435&lines=IT+high-school+student.;Coding+enthusiast.;(someday)+full-stack+web+developer.;Digital+artist.;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Allerta&size=21&duration=4000&pause=1000&color=339406&center=true&random=false&width=435&lines=IT+high-school+student.;Coding+enthusiast.;(someday)+full-stack+web+developer.;Digital+artist.;" alt="Typing SVG" /></a>
   
 <!-- SOCIAL MEDIA -->
 <p align='center'>
   
   <!-- SPOTIFY -->
-  <a href='https://open.spotify.com/user/3lve5iipdzcxild8ey2dxtdli?si=723d70ab90b84724'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/spotify.png' alt='Spotify Profile' width='40' height='40'>&nbsp&nbsp
+  <a href='https://open.spotify.com/user/3lve5iipdzcxild8ey2dxtdli?si=723d70ab90b84724' target="_blank">
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/spotify.png' alt='Spotify Profile' width='40' height='40' border="0">&nbsp&nbsp
   
   <!-- DISCORD -->
   <a href='https://jpst.it/3xPvc'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38'>&nbsp&nbsp
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/discord.png' alt='Discord' width='48' height='38' border="0">&nbsp&nbsp
 
   <!-- PORTFOLIO -->
-  <a href='https://erengy.github.io/under-construction/'>
-  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/Business_(48).png' alt='Graphics portfolio' width='45' height='40'>&nbsp&nbsp
+  <a href='https://erengy.github.io/under-construction/' target="_blank">
+  <img src='https://raw.githubusercontent.com/Kajzerooo/Kajzerooo/main/Business_(48).png' alt='Graphics portfolio' width='45' height='40' border="0">&nbsp&nbsp
 </p>
 
 </a>
