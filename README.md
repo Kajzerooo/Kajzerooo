@@ -1,5 +1,5 @@
 <style>
-  #socialmedia{
+  #user-content-socialmedia{
     text-align: center;
   }
 </style>
