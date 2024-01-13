@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
-<p text-align='center'>
+<p text-align='center' color='#2F9501'>
     <h2>//-----------------------------WORK IN PROGRESS (13.01.2024)----------------------------//</h3>
 </p>
 
